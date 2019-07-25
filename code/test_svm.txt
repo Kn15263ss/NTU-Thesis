@@ -1,0 +1,5 @@
+--Dataset_name=FashionMNIST
+--Dataset_name=KMNIST
+--Dataset_name=CIFAR10
+--Dataset_name=SVHN
+--Dataset_name=STL10

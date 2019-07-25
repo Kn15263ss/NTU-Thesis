@@ -1,0 +1,34 @@
+--Dataset_name=FashionMNIST --Network_name=Vgg11 --lr=0.05807576333727369 --momentum=0.6903918303562684 --weight_decay=0.00032115934488706737 --factor=0.8555674763071295
+--Dataset_name=FashionMNIST --Network_name=Vgg11 --lr=0.05807576333727369 --momentum=0.6903918303562684 --weight_decay=0 --factor=0.8555674763071295
+--Dataset_name=FashionMNIST --Network_name=Resnet18 --lr=0.1 --momentum=0.1 --weight_decay=0.0001 --factor=0.5
+--Dataset_name=FashionMNIST --Network_name=Resnet18 --lr=0.1 --momentum=0.1 --weight_decay=0 --factor=0.5
+--Dataset_name=FashionMNIST --Network_name=MobileNet_V2 --lr=0.056623242044667316 --momentum=0.8286365751454329 --weight_decay=5.5497391214948966e-05 --factor=0.06374150240278738
+--Dataset_name=FashionMNIST --Network_name=MobileNet_V2 --lr=0.056623242044667316 --momentum=0.8286365751454329 --weight_decay=0 --factor=0.06374150240278738
+
+--Dataset_name=KMNIST --Network_name=Vgg11 --lr=0.019874714600469762 --momentum=0.931569229587965 --weight_decay=2.215120863875692e-05 --factor=0.6557990065856035
+--Dataset_name=KMNIST --Network_name=Vgg11 --lr=0.019874714600469762 --momentum=0.931569229587965 --weight_decay=0 --factor=0.6557990065856035
+--Dataset_name=KMNIST --Network_name=Resnet18 --lr=0.004937097462793587 --momentum=0.8664109292352912 --weight_decay=0.009966927232466883 --factor=0.3325034876605233
+--Dataset_name=KMNIST --Network_name=Resnet18 --lr=0.004937097462793587 --momentum=0.8664109292352912 --weight_decay=0.0 --factor=0.3325034876605233
+--Dataset_name=KMNIST --Network_name=MobileNet_V2 --lr=0.008116750634667786 --momentum=0.7681786748241479 --weight_decay=0.006820181327075785 --factor=0.3801649211953428
+--Dataset_name=KMNIST --Network_name=MobileNet_V2 --lr=0.008116750634667786 --momentum=0.7681786748241479 --weight_decay=0 --factor=0.3801649211953428
+
+--Dataset_name=CIFAR10 --Network_name=Vgg11 --lr=0.01764545503748382 --momentum=0.742291230970774 --weight_decay=0.0024773979124789727 --factor=0.12301989214756104
+--Dataset_name=CIFAR10 --Network_name=Vgg11 --lr=0.01764545503748382 --momentum=0.742291230970774 --weight_decay=0.0 --factor=0.12301989214756104
+--Dataset_name=CIFAR10 --Network_name=Resnet18 --lr=0.07456822785854211 --momentum=0.3452994155602532 --weight_decay=5.3325714877910126e-05 --factor=0.16076178517218703
+--Dataset_name=CIFAR10 --Network_name=Resnet18 --lr=0.07456822785854211 --momentum=0.3452994155602532 --weight_decay=0 --factor=0.16076178517218703
+--Dataset_name=CIFAR10 --Network_name=MobileNet_V2 --lr=0.005350905193141398 --momentum=0.8513709347881757 --weight_decay=0.007342854887508058 --factor=0.2681032784768757
+--Dataset_name=CIFAR10 --Network_name=MobileNet_V2 --lr=0.005350905193141398 --momentum=0.8513709347881757 --weight_decay=0 --factor=0.2681032784768757
+
+--Dataset_name=SVHN --Network_name=Vgg11 --lr=0.008585378505659682 --momentum=0.9824938892179945 --weight_decay=0.00016570808046637183 --factor=0.2619410296964486
+--Dataset_name=SVHN --Network_name=Vgg11 --lr=0.008585378505659682 --momentum=0.9824938892179945 --weight_decay=0 --factor=0.2619410296964486
+--Dataset_name=SVHN --Network_name=Resnet18 --lr=0.012842386128732874 --momentum=0.12773024948684092 --weight_decay=0.03366133138758815 --factor=0.5615367035037525
+--Dataset_name=SVHN --Network_name=Resnet18 --lr=0.012842386128732874 --momentum=0.12773024948684092 --weight_decay=0.0 --factor=0.5615367035037525
+--Dataset_name=SVHN --Network_name=MobileNet_V2 --lr=0.0188796092654582 --momentum=0.7363389910828656 --weight_decay=0.007073822551462161 --factor=0.3305703226660651
+--Dataset_name=SVHN --Network_name=MobileNet_V2 --lr=0.0188796092654582 --momentum=0.7363389910828656 --weight_decay=0 --factor=0.3305703226660651
+
+--Dataset_name=STL10 --Network_name=Vgg11 --lr=0.01 --momentum=0.1 --weight_decay=0.0001 --factor=0.5
+--Dataset_name=STL10 --Network_name=Vgg11 --lr=0.01 --momentum=0.1 --weight_decay=0 --factor=0.5
+--Dataset_name=STL10 --Network_name=Resnet18 --lr=0.09754585617980223 --momentum=0.09006711466470159 --weight_decay=5.540079317328573e-05 --factor=0.5721088462783385
+--Dataset_name=STL10 --Network_name=Resnet18 --lr=0.09754585617980223 --momentum=0.09006711466470159 --weight_decay=0 --factor=0.5721088462783385
+--Dataset_name=STL10 --Network_name=MobileNet_V2 --lr=0.0626289923893954 --momentum=0.6430039248594817 --weight_decay=6.06595540431067e-05 --factor=0.2687494618198352
+--Dataset_name=STL10 --Network_name=MobileNet_V2 --lr=0.0626289923893954 --momentum=0.6430039248594817 --weight_decay=0 --factor=0.2687494618198352

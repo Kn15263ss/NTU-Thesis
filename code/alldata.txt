@@ -1,0 +1,15 @@
+--Dataset_name=FashionMNIST --Network_name=Vgg11
+--Dataset_name=FashionMNIST --Network_name=Resnet18
+--Dataset_name=FashionMNIST --Network_name=MobileNet_V2
+--Dataset_name=KMNIST --Network_name=Vgg11
+--Dataset_name=KMNIST --Network_name=Resnet18
+--Dataset_name=KMNIST --Network_name=MobileNet_V2
+--Dataset_name=CIFAR10 --Network_name=Vgg11
+--Dataset_name=CIFAR10 --Network_name=Resnet18
+--Dataset_name=CIFAR10 --Network_name=MobileNet_V2
+--Dataset_name=SVHN --Network_name=Vgg11
+--Dataset_name=SVHN --Network_name=Resnet18
+--Dataset_name=SVHN --Network_name=MobileNet_V2
+--Dataset_name=STL10 --Network_name=Vgg11
+--Dataset_name=STL10 --Network_name=Resnet18
+--Dataset_name=STL10 --Network_name=MobileNet_V2

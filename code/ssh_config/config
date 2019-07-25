@@ -1,0 +1,12 @@
+Host env1
+        User willy-huang
+        Hostname 10.91.5.128
+
+Host env2
+	User kn15263s
+	Hostname 140.112.29.204
+
+Host *
+    ForwardAgent yes
+    RemoteForward 52698 127.0.0.1:52698
+

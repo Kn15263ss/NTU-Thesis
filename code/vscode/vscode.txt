@@ -1,0 +1,41 @@
+###----vscode----###
+
+ctrl+P
+路徑 .vscode>settings.json
+
+{
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": false,
+    "python.formatting.provider": "autopep8",
+    "python.formatting.autopep8Args": [
+        "--max-line-length",
+        "79",
+        "--experimental"
+    ],
+    "[python]": {
+        "editor.formatOnSave": true,
+    },
+    "python.pythonPath": "/home/willy-huang/pyenv1/bin/python3",
+}
+
+----------------------------------------------------------------------------------
+
+ctrl+P
+路徑 home>willy-huang>.config>Code.User>settings.json
+
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 20,
+    "editor.occurrencesHighlight": false,
+    "workbench.colorTheme": "One Dark Pro",
+    "workbench.iconTheme": "material-icon-theme",
+    "files.autoSave": "onFocusChange",
+    "explorer.confirmDelete": false,
+    "remote.onstartup": true,
+    "breadcrumbs.enabled": true,
+    "terminal.integrated.cursorStyle": "line",
+    "terminal.integrated.fontSize": 15,
+    "terminal.integrated.fontWeight": "bold",
+    "terminal.integrated.fontWeightBold": "normal",
+    "terminal.integrated.rendererType": "dom"
+}
